@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.IdCard{
+    width: 410px;
+    height: 710px;
+    background-color: rgb(249, 246, 246);
+    text-align: center;
+    border-radius: 10px;
+    border: 5px solid gray;
+    padding: 45px 25px 25px;
+
+}
+
+.IdCard h1{
+    font-size: 25px;
+    font-weight:700;
+    margin-bottom: 22px;
+}
+
+.IdCard h2{
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.line{
+    height: 2px;
+    width: 350px;
+    background-color: darkgray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.image{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-left: 95px;
+    margin-bottom: 4px;
+    background-color: rgb(85, 25, 205);
+    border: 5px solid rosybrown;
+    
+
+}
+
+.contact{
+    margin-top: 10px;
+    margin-left: 25px;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(211, 215, 218);
+    text-align: left;
+}
+.contact p {
+    font-size: 17px;
+
+    margin-bottom: 8px;
+
+    color: #222;
+}
+
